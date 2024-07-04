@@ -26,13 +26,13 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:back_button_interceptor/back_button_interceptor.dart';
 
-import '.src/widgets/container.dart';
-import '.src/widgets/progress.dart';
-import '.src/widgets/indicator.dart';
-import '.src/widgets/overlay_entry.dart';
-import '.src/widgets/loading.dart';
-import '.src/animations/animation.dart';
-import '.src/theme.dart';
+import './widgets/container.dart';
+import './widgets/progress.dart';
+import './widgets/indicator.dart';
+import './widgets/overlay_entry.dart';
+import './widgets/loading.dart';
+import './animations/animation.dart';
+import './theme.dart';
 
 
 /// loading style
